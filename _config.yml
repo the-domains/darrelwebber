@@ -1,19 +1,4 @@
-name: DarrelWebber
-favicon: null
-layout_spectrum: 0.4752539419569075
-typography_spectrum: 0.8909980738535523
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -21,8 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7022798515390605
-  lightness: 0.1823766785673797
-  saturation: 0.3792451648041606
-  rhythmicContrast: 0.7824104602914304
+  brandStrength: 0.702279
+  lightness: 0.182376
+  rhythmicContrast: 0.488738
+  saturation: 0.379245
+cta: {}
+layout_spectrum: 0.663288
+name: DarrelWebber
+opengraph: {}
 purpose: []
+typography_spectrum: 0.8909980738535523
