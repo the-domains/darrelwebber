@@ -7,11 +7,11 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.702279
-  lightness: 0.182376
+  lightness: 0.497747
   rhythmicContrast: 0.488738
   saturation: 0.379245
 cta: {}
-layout_spectrum: 0.663288
+layout_spectrum: 0.842342
 name: DarrelWebber
 opengraph: {}
 purpose: []
