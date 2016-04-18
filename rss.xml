@@ -4,7 +4,7 @@
         <description><![CDATA[DarrelWebber]]></description>
         <link>https://thegrid.ai/darrelwebber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 08:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 08:05:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrelwebber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/darrelwebber/about-me/index.html</link>
             <guid isPermaLink="false">f653a995-7702-4876-b1ea-1758170229a8</guid>
             <pubDate>Mon, 18 Apr 2016 08:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://ccafs.cgiar.org/bigfacts/img/themes/climate-impacts-people/subthemes/CCIP_Food_Security-01.jpg">]]></description>
-            <link>https://thegrid.ai/darrelwebber/645c1e08-3088-418d-b3ee-2c51de0fdcd2/index.html</link>
-            <guid isPermaLink="false">645c1e08-3088-418d-b3ee-2c51de0fdcd2</guid>
-            <pubDate>Mon, 18 Apr 2016 07:48:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
