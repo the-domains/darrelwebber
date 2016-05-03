@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "I posted this lovely infographic on social media several months ago and got the attention of many. It, very simply, encapsulates, what I feel about being proactive in life. However, the BIG question that, I find most people find hard to answer is \"WHAT MAKES YOU HAPPY?\" To me, its life's most crucial question and most don't spend enough time thinking of the answer."
-datePublished: '2016-05-03T08:08:07.698Z'
-dateModified: '2016-05-03T07:57:54.871Z'
+datePublished: '2016-05-03T08:09:09.736Z'
+dateModified: '2016-05-03T08:08:17.450Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-i-posted-this-lovely-infographic-on-social-media-several-mon.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: 40b7a97d-fa2c-46ef-a899-a023c2a47a33/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 I posted this lovely infographic on social media several months ago and got the attention of many. It, very simply, encapsulates, what I feel about being proactive in life. However, the BIG question that, I find most people find hard to answer is "_WHAT MAKES YOU HAPPY_?" To me, its life's most crucial question and most don't spend enough time thinking of the answer.
